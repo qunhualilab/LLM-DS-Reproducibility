@@ -14,6 +14,22 @@ In the current folder, execute the script to download DiscoveryBench, QRData, an
    ./download_data.sh
    ```
 
+### Setting up environment
+1. Create a new conda environment
+   ```
+   conda create -n reproducibility python=3.11
+   ```
+
+2. Activate the environment
+   ```
+   conda activate reproducibility
+   ```
+
+3. Install the dependencies
+   ```
+   pip install -r requirements.txt
+   ```
+
 ### Using GPT-4o and o3-mini
 1. Deploy the LLMs on [Azure](https://azure.microsoft.com/en-us/).
 2. Create a `.env` file that includes the following keys:
