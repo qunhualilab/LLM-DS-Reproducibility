@@ -8,3 +8,6 @@ seaborn==0.13.2
 econml==0.15.1
 pingouin==0.5.5
 biopython==1.84
+langchain-ollama==0.2.1
+langchain-aws==0.2.9
+langchain-openai==0.3.3
