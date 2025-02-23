@@ -1,0 +1,22 @@
+{
+    "claude-3-5-sonnet": {
+        "model_type": "anthropic",
+        "model_name": "us.anthropic.claude-3-5-sonnet-20241022-v2:0"
+    },
+    "gpt-4o": {
+        "model_type": "openai",
+        "model_name": "gpt-4o-2024-11-20"
+    },
+    "llama-3.3": { 
+        "model_type": "meta",
+        "model_name": "llama3.3"
+    },
+    "deepseek-r1": {
+        "model_type": "deepseek",
+        "model_name": "deepseek-r1:70b"
+    },
+    "o3-mini": {
+        "model_type": "openai-o",
+        "model_name": "o3-mini-2025-01-31"
+    }
+}
