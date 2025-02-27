@@ -80,4 +80,15 @@ The result file will contain both the accuracy and reproducibility metrics.
   - `-1`: Irreproducible (reproduciblity=0 with inexecutable code in the paper)
 
 ## Citation
-To be added.
+If you find this work useful, please cite it as:
+
+```bibtex
+@misc{zeng2025analystinspectorframeworkevaluatingreproducibility,
+      title={An Analyst-Inspector Framework for Evaluating Reproducibility of LLMs in Data Science}, 
+      author={Qiuhai Zeng and Claire Jin and Xinyue Wang and Yuhan Zheng and Qunhua Li},
+      year={2025},
+      eprint={2502.16395},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2502.16395}, 
+}
