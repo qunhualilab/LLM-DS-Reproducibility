@@ -83,7 +83,7 @@ The result file will contain both the accuracy and reproducibility metrics.
 If you find this work useful, please cite it as:
 
 ```bibtex
-@misc{zeng2025analystinspectorframeworkevaluatingreproducibility,
+@misc{zeng2025analyst,
       title={An Analyst-Inspector Framework for Evaluating Reproducibility of LLMs in Data Science}, 
       author={Qiuhai Zeng and Claire Jin and Xinyue Wang and Yuhan Zheng and Qunhua Li},
       year={2025},
